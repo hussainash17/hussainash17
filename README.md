@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## It's Ashraf. Welcome to my github profile.
 ### Currently I am a 4th year student of Dept. of CSE, University of Dhaka.I am trying to be a master in Web technologies.I love experimenting with new technologies and building small projects.
 
