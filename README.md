@@ -22,5 +22,3 @@
 
 </p>
 
-
-<img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/bottom.svg" alt="bottom">
