@@ -10,15 +10,5 @@
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ashrafhussain17&show_icons=true)
 
 
-<hr>
-<p align="center">
-  <i>Let's connect and chat</i>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ashraf-hussain-0a13a9148/" alt="Linkedin"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/linkedin-fill.svg"></a>
-   <a href="mailto:ashrafhussain.2317.csedu@gmail.com" alt="Contact me"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/mail-fill.svg"></a>
-  </p>
-  
-
-</p>
 
