@@ -10,7 +10,7 @@
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=ashrafhussain17&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhussain17&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafhussain17)
 
 
 
