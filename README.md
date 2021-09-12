@@ -1,9 +1,11 @@
 # Hi Everyone.It's Ashraf. Welcome to my github profile.
-### I have completed my Bachelor’s degree in Computer Science and Engineering from the University of Dhaka.I am trying to be a master in Web technologies.I love experimenting with new technologies and building projects.
+### Completed Bachelor’s degree in Computer Science and Engineering from the University of Dhaka.Trying to be a master in Web technologies.I love experimenting with new technologies and building projects.
 
-#### - 🔭 I have already learned Basic C,Java as well as Python and master in NodeJs,Typescript and React.
-#### - 🔭 I have learned Microservice Architecture along with Docker and Kubernetes.
-#### - 🌱 I have done my thesis on Data Mining, Deep Learning.
+#### - 🔭 Basic knowledge of C,Java as well as Python and expertise on NodeJs,Typescript and React.
+#### - 🌱 Very good knowledge on OOP, design principles and patterns
+#### - 🌱 Expertise on both manual and automation testing especially Postman, Cypress, Jest and SuperTest
+#### - 🔭 Knowledge on Microservice Architecture along with Docker and Kubernetes.
+#### - 🌱 Done my thesis on Data Mining, Deep Learning.
 
 ### [My Portfolio](https://ashrafhussain.netlify.app/)
 
