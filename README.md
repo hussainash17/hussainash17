@@ -1,7 +1,7 @@
 # Hi Everyone.It's Ashraf. Welcome to my github profile.
 ### Completed Bachelor’s degree in Computer Science and Engineering from the University of Dhaka.Trying to be a master in Web technologies.I love experimenting with new technologies and building projects.
 
-#### - 🔭 Basic knowledge of C,Java as well as Python and expertise on NodeJs,Typescript and React.
+#### - 🔭 Expertise on Java, Spring, Spring Boot, NodeJs, Typescript, NextJs
 #### - 🌱 Very good knowledge on OOP, design principles and patterns
 #### - 🌱 Expertise on both manual and automation testing especially Postman, Cypress, Jest and SuperTest
 #### - 🔭 Knowledge on Microservice Architecture along with Docker and Kubernetes.
